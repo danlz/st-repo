@@ -1,4 +1,4 @@
 App: RoomManagerapp
 Controllers: MainController
-Windows:
+Windows: ConfigurationWindow
 WebServices:
